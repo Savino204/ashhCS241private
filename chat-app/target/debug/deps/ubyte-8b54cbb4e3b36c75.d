@@ -1,0 +1,11 @@
+C:\Users\haley\OneDrive\Documents\ashhCS241private\chat-app\target\debug\deps\libubyte-8b54cbb4e3b36c75.rmeta: C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\lib.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\arithmetic.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\byte_unit.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\parse.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\ser_de.rs
+
+C:\Users\haley\OneDrive\Documents\ashhCS241private\chat-app\target\debug\deps\libubyte-8b54cbb4e3b36c75.rlib: C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\lib.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\arithmetic.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\byte_unit.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\parse.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\ser_de.rs
+
+C:\Users\haley\OneDrive\Documents\ashhCS241private\chat-app\target\debug\deps\ubyte-8b54cbb4e3b36c75.d: C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\lib.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\arithmetic.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\byte_unit.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\parse.rs C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\ser_de.rs
+
+C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\lib.rs:
+C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\arithmetic.rs:
+C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\byte_unit.rs:
+C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\parse.rs:
+C:\Users\haley\.cargo\registry\src\index.crates.io-6f17d22bba15001f\ubyte-0.10.4\src\ser_de.rs:
