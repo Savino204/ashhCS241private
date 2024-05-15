@@ -1,0 +1,3 @@
+[submodule "bevy-pong"]
+	path = bevy-pong
+	url = ./../bevy-pong
