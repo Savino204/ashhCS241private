@@ -1,6 +1,6 @@
 [submodule "bevy-pong"]
 	path = bevy-pong
-	url = ./../bevy-pong
+	url = https://github.com/darquill/bevy-pong.git
 [submodule "ashhNetPong"]
 	path = ashhNetPong
 	url = https://github.com/Savino204/ashhNetPong.git
