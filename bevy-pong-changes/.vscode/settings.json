@@ -1,0 +1,21 @@
+{
+    // "rust-analyzer.cargo.extraEnv": {
+    //     "RUSTFLAGS": "-Clinker=clang -Clink-arg=-fuse-ld=lld"
+    // },
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "rust-analyzer.linkedProjects": [
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml",
+        "./Cargo.toml"
+    ],
+    "editor.defaultFormatter": null,
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[rust]": {
+        "editor.defaultFormatter": "rust-lang.rust-analyzer",
+    },
+    "rust-analyzer.showUnlinkedFileNotification": false
+}
